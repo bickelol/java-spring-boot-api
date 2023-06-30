@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BcorpHw2Application<bcorp_hw2>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.bcorp_hw2.bcorp_hw2.BcorpHw2Application",
+            "projectName": "bcorp_hw2",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
